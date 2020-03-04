@@ -2,4 +2,4 @@ First Commit
 Second Commit
 Third Commit
 A made another change
-Thats a lots of changes
+Thats a lots of changes on last line
